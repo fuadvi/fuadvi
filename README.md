@@ -1,7 +1,5 @@
 ### Hi there, I'm [Fuad](https://www.linkedin.com/in/teuku-fuad-maulana-97619319a/)! 👋
 
-### Github Stats
-
 <!--
 **fuadvi/fuadvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
